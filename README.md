@@ -1,20 +1,20 @@
 # Hi, I'm Ajay 👋
 
-🚀 AI/ML Engineer | GenAI
+ AI/ML Engineer | GenAI
 
 I build scalable AI systems focused on trading, prediction, and automation.
 
 ---
 
-## 🔥 Featured Projects
+##  Featured Projects
 
-* AI Trading Signal System (in progress)
-* GenAI Agent (coming soon)
-* Data Pipeline Project (coming soon)
+* AI Trading Signal System 
+* GenAI Agent 
+* Data Pipeline Project 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * Python
 * Machine Learning
@@ -25,7 +25,7 @@ I build scalable AI systems focused on trading, prediction, and automation.
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 * LinkedIn: https://www.linkedin.com/in/ajaykumar-p-b852983a4/
 
